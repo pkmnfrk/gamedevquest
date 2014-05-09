@@ -1,0 +1,8 @@
+{
+    "name":"gamedevquest",
+    "version":"0.0.1",
+    "repository":"",
+    "dependencies": {
+        "node-static": "0.7.x"
+    }
+}
